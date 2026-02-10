@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+
+# Conda
+.env
+.conda
+env/
+
+# Docker
+*.log
+
+# Editors
+.vscode/
+.idea/
+
+# Data
+data/
+models/
+
+# OS
+.DS_Store
+
